@@ -25,11 +25,12 @@ The GRE Vocabulary Preparation App is a powerful tool for anyone preparing for t
 ### Semantic Categorization
 - The app goes beyond just words by categorizing them based on similar meanings. Categories such as "Rude Words" and "Annoying Words" help you master nuanced word usage, a critical skill for GRE success.
 
-## How to Use
-- [Download the app](#) from the Google Play Store (Coming Soon).
-- Sign in or create an account to access the full range of features.
-- Explore the word repository, take tests, and utilize the intelligent revision and dictionary features to enhance your vocabulary.
+## Contributing
 
-## Developed by
-- Jay Birthariya
+Contributions to this project are welcome. If you find a bug or have a feature request, please open an issue on the Github repository. If you would like to contribute code, please fork the repository and create a pull request.
+
+## Developer 
+
+- [Jay Birthariya](https://github.com/JayBirthariya581)
+
 
