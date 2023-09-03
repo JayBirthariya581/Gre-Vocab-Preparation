@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "537001417164",
+    "firebase_url": "https://gre-preparation-project-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gre-preparation-project",
+    "storage_bucket": "gre-preparation-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537001417164:android:edd66d9ff358759c0de569",
+        "android_client_info": {
+          "package_name": "com.gre.prep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537001417164-eotoc0k51clalrlnb1304q0gaqt4o8tq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gre.prep",
+            "certificate_hash": "73b39123ba9a8e7129f56ccd572c1cbc134635fb"
+          }
+        },
+        {
+          "client_id": "537001417164-fe781qnkfrs8o55c601fumtqh89262vc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gre.prep",
+            "certificate_hash": "24dfd62b9342a9db83d5337e4e60367571b28e85"
+          }
+        },
+        {
+          "client_id": "537001417164-ligpj21e62jeemd6ok4isdk6hp2h3anl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABdMFhnL4V1hF0agyNSVKjW1npQBq-QvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537001417164-ligpj21e62jeemd6ok4isdk6hp2h3anl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

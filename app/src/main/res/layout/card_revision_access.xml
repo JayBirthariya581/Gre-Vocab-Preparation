@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/cream"
+    android:padding="15dp">
+
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:layout_marginBottom="10dp"
+        android:fontFamily="@font/lato"
+        android:includeFontPadding="false"
+        android:text="Access revision list"
+        android:textColor="#333333"
+        android:textFontWeight="900"
+        android:textSize="14sp" />
+
+
+    <androidx.appcompat.widget.AppCompatEditText
+        android:id="@+id/revisionCode"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="10dp"
+        android:fontFamily="@font/lato"
+        android:hint="Revision Code"
+        android:paddingVertical="15dp"
+        android:paddingHorizontal="8dp"
+        android:inputType="textCapCharacters"
+        android:background="@drawable/white_curved_bg"
+        android:textColor="@color/black"
+        android:textSize="14sp" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/proceed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:backgroundTint="@color/blue"
+        android:paddingVertical="12dp"
+        android:text="Proceed"
+        android:textAllCaps="false"
+        app:cornerRadius="5dp" />
+
+    \
+
+</LinearLayout>
